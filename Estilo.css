@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+Body{background-color:#F0F4F8; 
+    font-color:#4A4A4A;
+    font-family: `lora´,serif;
+line: height 1.6em;}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    color: #2C3E50;
+}
+
+h2 {
+    color: #5D4E37;
+}
+
